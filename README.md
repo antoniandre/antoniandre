@@ -1,4 +1,4 @@
-# Hi there 👋, thanks for visiting my Git 💚
+## Hi there 👋, thanks for visiting my Git 💚
 
 ### Some about me
 - 🧢 Technical Team Lead the day
